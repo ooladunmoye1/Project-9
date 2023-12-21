@@ -67,3 +67,5 @@ Now, go ahead and make some change in any file in your GitHub repository (e.g. R
 
 You will see that a new build has been launched automatically (by webhook) and you can see its results – artifacts, saved on Jenkins server.
 
+check jenkins
+

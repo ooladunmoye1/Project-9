@@ -107,3 +107,5 @@ To make sure that the files in /mnt/apps have been udated – connect via SSH/Pu
 If you see the changes you had previously made in your GitHub – the job works as expected.
 
 Congratulations! You have just implemented your first Continous Integration solution using Jenkins CI. Watch out for advanced CI configurations in upcoming projects.
+
+checking jenkins
